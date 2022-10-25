@@ -10,3 +10,4 @@ for key, value in lista_zakupow.items():
 print("Zostały zakupione",v,"towarów")
 print("pierwszy commit")
 print("drugi commit")
+print("trzeci commit")
